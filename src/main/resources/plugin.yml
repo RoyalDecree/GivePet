@@ -1,7 +1,7 @@
 name: GivePet
 version: ${project.version}
-main: me.lucyydotp.givepet.GivePet
-api-version: 1.16
+main: me.lucyy.givepet.GivePet
+api-version: 1.21
 authors: [ lucyydotp ]
 description: Transfer ownership of your pets to other people
 website: https://lucyydotp.me
